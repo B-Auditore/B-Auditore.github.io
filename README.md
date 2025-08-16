@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
@@ -61,7 +61,7 @@
   <!-- Trabzonspor marşı (YouTube embed) -->
   <iframe width="0" height="0" src="https://www.youtube.com/embed/NnWc1SWh4lg?autoplay=1&loop=1" frameborder="0" allow="autoplay"></iframe>
 
-  <footer>Hazırlayan: Senin dostun ❤️</footer>
+  <footer>Hazırlayan: Orucun ❤️</footer>
 
   <script>
     let index = 0;
