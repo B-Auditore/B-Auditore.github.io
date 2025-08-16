@@ -63,7 +63,7 @@
 
 <!-- Ses Dosyası -->
 <audio id="arkamuzik" loop>
-  <source src="muzik.m4a" type="audio/mp4">
+  <source src="muzik.mp3" type="audio/mpeg">
   Tarayıcınız audio elementini desteklemiyor.
 </audio>
 
