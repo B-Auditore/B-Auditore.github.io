@@ -1,5 +1,3 @@
-# B-Auditore.github.io
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
