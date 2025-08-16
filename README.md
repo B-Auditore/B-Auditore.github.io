@@ -57,8 +57,27 @@
     <img src="eren5.jpg" alt="Fotoğraf 5">
   </div>
 
-  <!-- Trabzonspor marşı (YouTube embed) -->
-  <iframe width="0" height="0" src="https://www.youtube.com/embed/NnWc1SWh4lg?autoplay=1&loop=1" frameborder="0" allow="autoplay"></iframe>
+  <!-- Oynatma Tuşu -->
+<button onclick="playMusic()">Müziği Başlat</button>
+<button onclick="pauseMusic()">Durdur</button>
+
+<!-- Ses Dosyası -->
+<audio id="arkamuzik" loop>
+  <source src="muzik.m4a" type="audio/mp4">
+  Tarayıcınız audio elementini desteklemiyor.
+</audio>
+
+<script>
+  const music = document.getElementById('arkamuzik');
+
+  function playMusic() {
+    music.play();
+  }
+
+  function pauseMusic() {
+    music.pause();
+  }
+</script>
 
   <footer>Hazırlayan: Orucun ❤️</footer>
 
