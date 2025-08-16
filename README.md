@@ -56,6 +56,8 @@
     <img src="eren1.jpg" class="active" alt="Fotoğraf 1">
     <img src="eren2.jpg" alt="Fotoğraf 2">
     <img src="eren3.jpg" alt="Fotoğraf 3">
+    <img src="eren4.jpg" alt="Fotoğraf 4">
+    <img src="eren5.jpg" alt="Fotoğraf 5">
   </div>
 
   <!-- Trabzonspor marşı (YouTube embed) -->
